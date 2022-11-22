@@ -1,0 +1,24 @@
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Свой типTests.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Свой типTests.pdb
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Свой тип.exe
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Свой тип.pdb
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Свой тип.exe.config
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\obj\Debug\Свой типTests.csproj.AssemblyReference.cache
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\obj\Debug\Свой типTests.csproj.CoreCompileInputs.cache
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\obj\Debug\Свой типTests.csproj.CopyComplete
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\obj\Debug\Свой типTests.dll
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой типTests\obj\Debug\Свой типTests.pdb

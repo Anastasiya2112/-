@@ -1,0 +1,10 @@
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой тип\bin\Debug\Свой тип.exe.config
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой тип\bin\Debug\Свой тип.exe
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой тип\bin\Debug\Свой тип.pdb
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой тип\obj\Debug\Свой тип.csproj.AssemblyReference.cache
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой тип\obj\Debug\Свой тип.csproj.SuggestedBindingRedirects.cache
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой тип\obj\Debug\Свой_тип.Properties.Resources.resources
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой тип\obj\Debug\Свой тип.csproj.GenerateResource.cache
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой тип\obj\Debug\Свой тип.csproj.CoreCompileInputs.cache
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой тип\obj\Debug\Свой тип.exe
+E:\Актуальное тех-я прог-я\Свой тип корень\Свой тип\obj\Debug\Свой тип.pdb
